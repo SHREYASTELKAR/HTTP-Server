@@ -5,7 +5,7 @@ This directory contains source code and other files for Assignment 2.
 Use this README document to store notes about design, testing, and
 questions you have while developing your assignment.
 
-Credit TA Vincent Section
+Credit TA Vincent Section from CSE130 UCSC
 
 Resources:
 https://stackoverflow.com/questions/12353973/sizeof-char-array-in-c-c
